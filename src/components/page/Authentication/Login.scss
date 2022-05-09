@@ -1,0 +1,28 @@
+.MainSection{
+    padding: 0px 30%;
+    margin-top: 10% !important;
+}
+
+.loginSection{
+    text-align: center;
+    padding: 50px 20px;
+    background-color: rgb(226, 223, 223);
+    display: block !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+.inputField{
+    padding: 10px 10px;
+    border: 1px solid grey !important;
+}
+.loginButton{
+    color: white;
+    width: 50%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 25px;
+    background-color: orangered !important;
+}
